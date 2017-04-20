@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 
-Cards for Humanity - [http://arakari-staging.herokuapp.com/](http://arakari-staging.herokuapp.com/)
+Cards for Humanity - [https://arakari-cfh.herokuapp.com](https://arakari-cfh.herokuapp.com)
 ===========
 Cards for Humanity is a fast-paced online version of the popular card game, Cards Against Humanity.
 
